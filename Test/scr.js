@@ -84,5 +84,5 @@
         var currentURL = window.location.href;
         var newURL = currentURL.replace('p/home.html', '');
         changeURLWithoutRedirect(newURL);
-    console.log("Hellow");
+
 </script>
